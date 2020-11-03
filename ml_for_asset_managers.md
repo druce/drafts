@@ -1,11 +1,14 @@
-- who is Prado, background, other books
-- what is machine learning, main point of book
-- There are plenty of books in the market that provide recipes for implementing someone else’s investment strategy. Those cookbooks show us how to prepare someone else’s cake. This is more, here is some chemistry you should know to boil an egg.
-- To get the most out of the book, should have ML at the level of eg Andrew Ng and Hastie/Tibshirani. you don't need grad level math, stochastic calculus.
+Marcos López de Prado is one of the most prolific and [most-read](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=434076) teachers and writers on machine learning in finance: formerly head of ML at AQR, head of quant strategies at Guggenheim, professor at Cornell, author of [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/) which is probably the most popular book on the subject. So when he publishes a book on [Machine Learning for Asset Managers](https://www.amazon.com/Machine-Learning-Managers-Elements-Quantitative) it's a big deal.
+
+- To get the most out of the book, should have some stats / ML at the level of eg Andrew Ng and Hastie/Tibshirani. you don't need grad level math, stochastic calculus. 
+- This is not a cookbook or a book about the philosophy of cooking. It's, here's is the basic chemistry you should know to boil an egg.
+
 - short monograph, appendices & footnotes start on p. 125 on the most important parts of machine learning to know, can digest chapters in chunks. could certainly be expanded into a 500-page textbook for a full course
+
 - what did I like
 
 - constructive criticism
+  - pretty short, dense, monograph, would be nice to have a course that was the equivalent of Andrew Ng for investing with machine learning.
 - summary (below)
 - maybe we should do an official book group with monthly meeting, on Zoom, each time 2-3 people present a paper/chapter
 
